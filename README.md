@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema web de autenticación y perfil con PHP y MySQL
 
 Sistema pequeño desarrollado en PHP y MySQL que permite registrar usuarios, iniciar sesión, acceder a una zona privada, actualizar datos básicos del perfil, cambiar la contraseña de forma segura y cerrar sesión.
@@ -99,3 +100,6 @@ http://localhost/sistema_perfil_php/
 - Se usa `htmlspecialchars()` al mostrar datos en pantalla.
 - Se usa `session_regenerate_id(true)` después del login para reducir riesgo de fijación de sesión.
 
+=======
+# sistema-login-php
+>>>>>>> a9144c82f1d0adb08eb8f57f0b4ad53244e3d9b6
